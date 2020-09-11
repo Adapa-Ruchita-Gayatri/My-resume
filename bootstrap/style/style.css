@@ -1,0 +1,40 @@
+.card0{
+	border: 2px solid #000;
+	padding: 5px;
+    margin: 5px;
+	flex :1;   /* card occuppies 33% card1 also 33% and card2 33%*/
+    order: 2;
+    background-color: aqua;
+}
+
+.card1{
+	border: 2px solid #000;
+	padding: 5px;
+	margin: 5px;
+	flex:1;
+    order: 1;
+    background-color: aqua;
+
+}
+
+
+
+.main-div{
+	display: flex;
+	content: center;
+	justify-content: center;
+    flex-wrap: wrap;  
+    text-align: center;
+
+}
+
+
+@media screen and (max-width: 425px){
+	.main-div{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	}	
+
+}

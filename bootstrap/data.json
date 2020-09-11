@@ -1,0 +1,18 @@
+{
+	 "persons":[
+			{
+			 "name":"Ruchita",
+			 "photo":"images/ruchitaresume.jpg",
+			 "email":"ruchita21@gmail.com"
+			 
+			},
+			{
+			 "name":"Vyshnavi",
+			 "photo":"images/vyshuresume.jpg",
+			 "email":"vyshnavi27@gmail.com"
+			 	
+			}
+
+			 
+	   ]
+}
